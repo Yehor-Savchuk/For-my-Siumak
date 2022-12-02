@@ -1,0 +1,49 @@
+@media screen and ( max-width: 1080px) {
+#aPass{display:none;}
+.parol{
+    background-color: rgb(121 8 8 / 83%);
+    border-color: rgb(158 0 0);
+    color: darkorange;
+    width: 308px;
+    text-align: center;
+    height: 42px;
+    font-size: 28px;
+    margin-bottom: 28px;
+    border-radius: 8px;
+}
+button{
+    background-image:url(Без\ имени-1.png);
+    width: 228px;
+    height: 105px;
+    border-color: rgb(217, 255, 0);
+    border-radius: 98px;
+}
+
+.floppa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 240px;
+}
+
+body{
+    margin: 0px;
+    background-image:url(Без\ имени-2.png);
+}
+.poema{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #db111b;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 57px;
+    margin-left: 92px;
+    margin-right: 84px;
+}
+.biba{
+    margin: 0px;
+    background-image: url(1584645501_11-p-temnie-foni-s-malenkimi-serdechkami-34.png)
+}
+}
